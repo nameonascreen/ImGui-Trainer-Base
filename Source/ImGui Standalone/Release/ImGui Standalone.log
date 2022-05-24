@@ -1,0 +1,6 @@
+﻿  Drawing.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 1586 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ImGui Standalone.vcxproj -> C:\Users\Names\Desktop\ImGui Trainer Base\Source\Release\ImGui Standalone.exe
